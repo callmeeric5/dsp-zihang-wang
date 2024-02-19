@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 #Ignore the data dict
-#data/
+data/
 
